@@ -5,19 +5,19 @@ React Events is an event management application built using React, React Router,
 ## Screenshots
 
 ### Home
-![Home](https://i.ibb.co/QMHyMBG/home.png)
+![Home](https://i.ibb.co/XzJfm4F/home.png)
 
 ### New Event
-![New Event](https://i.ibb.co/cgCvNVx/new-event.png)
+![New Event](https://i.ibb.co/HhwVkN3/new-event.png)
 
 ### Event Details
-![Event Details](https://i.ibb.co/qxK2Gd8/event-details.png)
+![Event Details](https://i.ibb.co/1qKfxDv/event-details.png)
 
 ### Edit Event
-![Edit Event](https://i.ibb.co/V9gVTH1/edit-event.png)
+![Edit Event](https://i.ibb.co/9YnfrXG/edit-event.png)
 
 ### Delete Event
-![Delete Event](https://i.ibb.co/zXh7W8d/delete-event.png)
+![Delete Event](https://i.ibb.co/MfmW4GY/delete-event.png)
 
 ## Features
 
